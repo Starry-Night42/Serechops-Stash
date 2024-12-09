@@ -17,6 +17,25 @@
         "parent": "Age Group"
     },
     {
+        "name": "180\u00b0",
+        "description": "Virtual reality scenes with a 180\u00b0 field of vision.",
+        "aliases": [
+            "180",
+            "180 FOV",
+            "180 VR",
+            "180VR",
+            "180\u00b0 FOV",
+            "180\u00b0 VR",
+            "FOV: 180",
+            "FOV: 180\u00b0",
+            "FOV:180",
+            "FOV:180\u00b0",
+            "VR 180",
+            "VR180"
+        ],
+        "parent": "Shot Type"
+    },
+    {
         "name": "1800s",
         "description": "Inspired by the history and culture of the 19th century.",
         "aliases": [
@@ -26,6 +45,15 @@
             "Victorian"
         ],
         "parent": "Themes"
+    },
+    {
+        "name": "190\u00b0",
+        "description": "Virtual reality scenes with a 190\u00b0 field of vision.",
+        "aliases": [
+            "190",
+            "RF52"
+        ],
+        "parent": "Shot Type"
     },
     {
         "name": "1920s",
@@ -104,6 +132,22 @@
         "parent": "Age Group"
     },
     {
+        "name": "200\u00b0",
+        "description": "Virtual reality scenes with a 200\u00b0 field of vision.",
+        "aliases": [
+            "200"
+        ],
+        "parent": "Shot Type"
+    },
+    {
+        "name": "220\u00b0",
+        "description": "Virtual reality scenes with a 220\u00b0 field of vision.",
+        "aliases": [
+            "220"
+        ],
+        "parent": "Shot Type"
+    },
+    {
         "name": "2D Available",
         "description": "3D or VR scenes that offer a more traditional 2D alternative format.",
         "aliases": [
@@ -130,6 +174,14 @@
         "description": "Scenes offered at 30 frames per second.",
         "aliases": [
             "30FPS"
+        ],
+        "parent": "Shot Type"
+    },
+    {
+        "name": "360\u00b0",
+        "description": "Virtual reality scenes with a 360\u00b0 field of vision.",
+        "aliases": [
+            "360"
         ],
         "parent": "Shot Type"
     },
@@ -174,6 +226,20 @@
             "Over 40"
         ],
         "parent": "Age Group"
+    },
+    {
+        "name": "4:3 Aspect Ratio",
+        "description": "Footage shot in a 4:3 (1.33:1) aspect ratio.",
+        "aliases": [
+            "1.33:1",
+            "1.33:1 Aspect Ratio",
+            "1.33x1",
+            "4:3",
+            "4x3",
+            "4x3 Aspect Ratio",
+            "Fullscreen"
+        ],
+        "parent": "Shot Type"
     },
     {
         "name": "4K Available",
@@ -589,6 +655,24 @@
             "Old Order Amish"
         ],
         "parent": "Roles"
+    },
+    {
+        "name": "Anal Sex",
+        "description": "Anal penetrative sex.",
+        "aliases": [
+            "Anal",
+            "Anal Penetration",
+            "Anal Slut",
+            "Ask For Anal",
+            "Ass Fuck",
+            "Ass Fucking",
+            "Ass Is in Session",
+            "BG Anal",
+            "Brutal Anal",
+            "hardcore anal sex",
+            "\u809b\u95e8"
+        ],
+        "parent": "Acts"
     },
     {
         "name": "Anal Beads",
@@ -1164,6 +1248,16 @@
         "parent": "Race"
     },
     {
+        "name": "Asian on White",
+        "description": "White women having sex with Asian Male(s)",
+        "aliases": [
+            "AMWF",
+            "Asian Male White Woman",
+            "\u4e9a\u88d4\u7537\u6027\u4e0e\u767d\u4eba\u5973\u6027"
+        ],
+        "parent": "Race"
+    },
+    {
         "name": "Asian Man",
         "description": "Male performers with broadly east Asian racial backgrounds, particularly Japanese, Chinese, Korean, etc.",
         "aliases": [
@@ -1412,6 +1506,8 @@
             "Athletic Male",
             "Athletic Males",
             "Athletic Men",
+            "Fit Male",
+            "Fit Man",
             "\u8fd0\u52a8\u578b\u7537",
             "\u8fd0\u52a8\u7537"
         ],
@@ -1727,7 +1823,8 @@
         "description": "Female character who clearly enjoys breaking the rules.",
         "aliases": [
             "Naughty Girls",
-            "Rebellious Girl"
+            "Rebellious Girl",
+            "Resistant"
         ],
         "parent": "Roles"
     },
@@ -1993,6 +2090,27 @@
             "\u98a8\u5442"
         ],
         "parent": "Surfaces"
+    },
+    {
+        "name": "Big Black Cock (BBC)",
+        "description": "Performers of broadly African heritage with particularly large penises.",
+        "aliases": [
+            "BBC",
+            "Big Black Cock",
+            "Big Black Dick",
+            "Big Black Dong",
+            "Big Black Schlong",
+            "Black Cock",
+            "Black Dick",
+            "Black Dong",
+            "Black Schlong",
+            "Chocolate Cock",
+            "Chocolate Dick",
+            "Chocolate Dong",
+            "Chocolate Schlong",
+            "\u5927\u5c4c\u9ed1\u4eba"
+        ],
+        "parent": "Race"
     },
     {
         "name": "BBW",
@@ -2701,6 +2819,22 @@
         "aliases": [
             "BJ Only",
             "BJOnly"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Blowjob - POV",
+        "description": "Point Of View of blowjob receiver",
+        "aliases": [
+            "BJ (POV)",
+            "BJ - POV",
+            "BJ POV",
+            "Blowjob (POV)",
+            "Blowjob POV",
+            "Male POV Blowjob",
+            "POV BJ",
+            "POV Blowjob",
+            "POVBlowjob"
         ],
         "parent": "Acts"
     },
@@ -3468,6 +3602,16 @@
         "parent": "Roles"
     },
     {
+        "name": "Breast Fetish",
+        "description": "Featuring a significant focus on a performer's breasts.",
+        "aliases": [
+            "Big Tits Lover",
+            "Busty Fetish",
+            "Tit Fetish"
+        ],
+        "parent": "Themes"
+    },
+    {
         "name": "Butterfly Gag",
         "description": "Wing-shaped gag inserted into a performer's mouth, often inflatable",
         "aliases": [],
@@ -3517,6 +3661,17 @@
             "\u809b\u585e"
         ],
         "parent": "Accessories"
+    },
+    {
+        "name": "Big White Cock (BWC)",
+        "description": "Performers of broadly European heritage with particularly large penises. \"Big White Cock\"",
+        "aliases": [
+            "BWC",
+            "Big White Cock",
+            "Big White Dick",
+            "\u767d\u4eba\u5927\u5c4c"
+        ],
+        "parent": "Race"
     },
     {
         "name": "Cage",
@@ -4310,6 +4465,16 @@
         "parent": "Clothing"
     },
     {
+        "name": "Cock and Ball Torture",
+        "description": "Inflicting pain on the penis and/or testicles.",
+        "aliases": [
+            "Ball Kicking",
+            "Ballbusting",
+            "CBT"
+        ],
+        "parent": "Themes"
+    },
+    {
         "name": "Cock and Ball Torture Toys",
         "description": "Toys designed to inflict pain on the penis, testicles, and/or scrotum.",
         "aliases": [
@@ -4795,6 +4960,22 @@
         "aliases": [
             "DVP Cowgirl",
             "Double Vaginal Penetration Cowgirl"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Cowgirl - POV",
+        "description": "From the perspective of the person below, with the person on top facing the observer during penetrative sex",
+        "aliases": [
+            "Cow Girl (POV)",
+            "Cow Girl POV",
+            "Cowgirl (POV)",
+            "Cowgirl POV",
+            "Girl on Top (POV)",
+            "Girl on Top - POV",
+            "Girl on Top POV",
+            "POV Cow Girl",
+            "POV Cowgirl"
         ],
         "parent": "Acts"
     },
@@ -6290,6 +6471,17 @@
         "parent": "Acts"
     },
     {
+        "name": "Stand and Carry (DVP)",
+        "description": "A female performer having double vaginal penetrative sex while being carried by the givers",
+        "aliases": [
+            "DVP in Air",
+            "Double Vaginal Penetration in Air",
+            "Stand and Carry DVP",
+            "Stand and Carry Double Vaginal Penetration"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Dovefucking",
         "description": "Rubbing a breast or nipple against another performer's vulva.",
         "aliases": [
@@ -6454,6 +6646,21 @@
             "Sex Dungeon"
         ],
         "parent": "Locations"
+    },
+    {
+        "name": "Bondage Furniture",
+        "description": "Furniture specifically used for bondage activities.",
+        "aliases": [
+            "BDSM Furniture",
+            "Bondage Bed",
+            "Bondage Chair",
+            "Cucking Chair",
+            "Dungeon Furniture",
+            "Suspension Frame",
+            "bondage horse",
+            "spanking bench"
+        ],
+        "parent": "Accessories"
     },
     {
         "name": "Dutch",
@@ -6750,6 +6957,37 @@
         "parent": "Themes"
     },
     {
+        "name": "Experienced (30\u201340)",
+        "description": "Character presented as a little older, a mix of youth and experience. Implied age (of character not performer) 30\u201340.",
+        "aliases": [
+            "Experienced",
+            "Experienced (Catch-all)",
+            "Experienced (Neutral)",
+            "Experienced (Vague)"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Experienced Man (30\u201340)",
+        "description": "Male character presented as a little older, a mix of youth and experience. Implied age (of character not performer) 30\u201340.",
+        "aliases": [
+            "Experienced Guy",
+            "Experienced Male",
+            "Experienced Man"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Experienced Woman (30\u201340)",
+        "description": "Female character presented as a little older, a mix of youth and experience. Implied age (of character not performer) 30\u201340.",
+        "aliases": [
+            "Experienced Female",
+            "Experienced Lady",
+            "Experienced Woman"
+        ],
+        "parent": "Age Group"
+    },
+    {
         "name": "Exploitation",
         "description": "Taking advantage of a position of power to coerce another character into sex.",
         "aliases": [
@@ -6783,6 +7021,17 @@
         "description": "Performers looking directly into the camera for a significant amount of time.",
         "aliases": [],
         "parent": "Acts"
+    },
+    {
+        "name": "Face Dildo",
+        "description": "Dildo worn on a performers face to be used on or by another performer.",
+        "aliases": [
+            "Chindo",
+            "Facedildo",
+            "Mouth Dildo",
+            "Mouthdildo"
+        ],
+        "parent": "Accessories"
     },
     {
         "name": "Face Down",
@@ -7111,6 +7360,31 @@
         "parent": "Themes"
     },
     {
+        "name": "Feet in Face During Handjob",
+        "description": "Using hands to pleasure another performer's penis while also placing feet in front of or on the receiving performers face",
+        "aliases": [
+            "Feet Smelling During Handjob",
+            "Feet Smelling While Handjob",
+            "Feet Sniffing During Handjob",
+            "Feet Sniffing While Handjob",
+            "Feet Worship Handjob",
+            "Feet in Face Handjob",
+            "Feet on Face Handjob",
+            "Foot Smelling During Handjob",
+            "Foot Smelling While Handjob",
+            "Foot Sniffing During Handjob",
+            "Foot Sniffing While Handjob",
+            "Foot Worship Handjob",
+            "Foot in Face Handjob",
+            "Foot on Face Handjob",
+            "Handjob - Feet in Face",
+            "Handjob - Feet on Face",
+            "Handjob - Foot in Face",
+            "Handjob - Foot on Face"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Felching",
         "description": "The act of sucking semen from any human orifice, eg. anus, vagina, it can be done with a drinking straw when semen is deep inside the rectum",
         "aliases": [],
@@ -7163,6 +7437,14 @@
             "Woman Watching"
         ],
         "parent": "Roles"
+    },
+    {
+        "name": "Female - POV",
+        "description": "Presented at least partially from the perspective of a female performer.",
+        "aliases": [
+            "Female POV"
+        ],
+        "parent": "Themes"
     },
     {
         "name": "Female Rigger",
@@ -8150,6 +8432,17 @@
         "parent": "Accessories"
     },
     {
+        "name": "Full-Body Harness",
+        "description": "A harness on the performer's full torso, sometimes on the hips and legs as well.",
+        "aliases": [
+            "Body Harness",
+            "Full Body Harness",
+            "Harness (Full Body)",
+            "Harness (Full-Body)"
+        ],
+        "parent": "Clothing"
+    },
+    {
         "name": "Full Body Latex",
         "description": "Performer wearing Latex on the whole body, including head, hands, feet and sexual organs, leaving almost no skin exposed",
         "aliases": [
@@ -8884,6 +9177,16 @@
         "parent": "Accessories"
     },
     {
+        "name": "Headband",
+        "description": "An elastic or horseshoe-shaped loop worn around the forehead to hold hair away from the face and/or eyes.",
+        "aliases": [
+            "Alice Band",
+            "Hair Band",
+            "Head Band"
+        ],
+        "parent": "Clothing"
+    },
+    {
         "name": "Hair Brush Spanking",
         "description": "A hairbrush used as an impact toy or for corporal punishment to strike a performer",
         "aliases": [
@@ -9121,6 +9424,15 @@
         "parent": "Acts"
     },
     {
+        "name": "Handjob - POV",
+        "description": "Point Of View of handjob receiver",
+        "aliases": [
+            "Handjob (POV)",
+            "POV Handjob"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Handjob to Completion",
         "description": "Using hands to stimulate another performer's penis until they orgasm",
         "aliases": [],
@@ -9228,6 +9540,16 @@
         "parent": "Misc"
     },
     {
+        "name": "Headband",
+        "description": "An elastic or horseshoe-shaped loop worn around the forehead to hold hair away from the face and/or eyes.",
+        "aliases": [
+            "Alice Band",
+            "Hair Band",
+            "Head Band"
+        ],
+        "parent": "Clothing"
+    },
+    {
         "name": "Head Pushing Blowjob",
         "description": "Character directs head movement of another engaged in performing blowjob.",
         "aliases": [],
@@ -9299,6 +9621,24 @@
             "High Heel Sandals",
             "High Heeled Sandals",
             "High Heels Sandals"
+        ],
+        "parent": "Clothing"
+    },
+    {
+        "name": "Woman's Heels",
+        "description": "Woman's shoes with a raised heel.",
+        "aliases": [
+            "Ankle Strap High Heels",
+            "Heels",
+            "High Heels",
+            "Kitten Heels",
+            "Low Heels",
+            "Medium Heels",
+            "Open Toe High Heels",
+            "Slingback High Heels",
+            "Stiletto Heels",
+            "Stilettos",
+            "Ultra-High Heels"
         ],
         "parent": "Clothing"
     },
@@ -9816,6 +10156,15 @@
         "parent": "Locations"
     },
     {
+        "name": "In Laws",
+        "description": "Characters in scene are in-laws",
+        "aliases": [
+            "In-Laws",
+            "Inlaws"
+        ],
+        "parent": "Relations"
+    },
+    {
         "name": "Innie Pussy",
         "description": "Vulva with naturally hidden inner labia.",
         "aliases": [
@@ -9933,6 +10282,16 @@
         "description": "Handheld version of an automated penetrating machine.",
         "aliases": [],
         "parent": "Accessories"
+    },
+    {
+        "name": "Hot Tub",
+        "description": "At least some of the action takes place in a hot tub or jacuzzi, with or without the underwater jets turned on.",
+        "aliases": [
+            "Hottub",
+            "Jacuzzi",
+            "Whirlpool"
+        ],
+        "parent": "Surfaces"
     },
     {
         "name": "Japanese",
@@ -10080,6 +10439,17 @@
             "\u63a5\u543b"
         ],
         "parent": "Acts"
+    },
+    {
+        "name": "Kissing - POV",
+        "description": "Virtual Reality scene filmed from the point of view of one of the performers while kissing",
+        "aliases": [
+            "Kissing POV",
+            "Kissing-POV",
+            "POV Kissing",
+            "POV-Kissing"
+        ],
+        "parent": "Themes"
     },
     {
         "name": "Kitchen",
@@ -10292,6 +10662,12 @@
         "parent": "Accessories"
     },
     {
+        "name": "Leather Belt Bondage",
+        "description": "Using leather belts to restrain a performer.",
+        "aliases": [],
+        "parent": "Accessories"
+    },
+    {
         "name": "Leather Bondage",
         "description": "Use of leather to restrain a performer (e.g. belts or collars)",
         "aliases": [
@@ -10450,6 +10826,12 @@
             "Life Guard"
         ],
         "parent": "Roles"
+    },
+    {
+        "name": "Lift and Carry",
+        "description": "Lift and carry fetish includes: shoulder ride, piggyback, cradle carry, shoulder ride with carrier walking on knees.",
+        "aliases": [],
+        "parent": "Acts"
     },
     {
         "name": "Light Brown Skin",
@@ -10750,6 +11132,22 @@
         "description": "Male or transmasc performer observers, but does not participate in, sexual acts for a significant portion of the scene.",
         "aliases": [],
         "parent": "Roles"
+    },
+    {
+        "name": "Male - POV",
+        "description": "Presented at least partially from the perspective of a male performer.",
+        "aliases": [
+            "Male POV",
+            "P.O.V.",
+            "POV",
+            "POV Only",
+            "POV Style",
+            "Point View",
+            "Point of View",
+            "Subjectivity",
+            "View - Male POV"
+        ],
+        "parent": "Themes"
     },
     {
         "name": "Male Rigger",
@@ -11091,6 +11489,37 @@
         "parent": "Accessories"
     },
     {
+        "name": "Middle-aged (40\u201360)",
+        "description": "Character presented as generally older, but not quite retirement age. Implied age (of character not performer) 40\u201360.",
+        "aliases": [
+            "Middle-aged",
+            "Middle-aged (Catch-all)",
+            "Middle-aged (Neutral)",
+            "Middle-aged (Vague)"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Middle-aged Man (40\u201360)",
+        "description": "Male character presented as generally older, but not quite retirement age. Implied age (of character not performer) 40\u201360.",
+        "aliases": [
+            "Middle-aged Guy",
+            "Middle-aged Male",
+            "Middle-aged Man"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Middle-aged Woman (40\u201360)",
+        "description": "Female character presented as generally older, but not quite retirement age. Implied age (of character not performer) 40\u201360.",
+        "aliases": [
+            "Middle-aged Female",
+            "Middle-aged Lady",
+            "Middle-aged Woman"
+        ],
+        "parent": "Age Group"
+    },
+    {
         "name": "Middle Ages",
         "description": "Inspired by the history and culture of medieval Europe, c. 500\u20131500 AD.",
         "aliases": [
@@ -11355,6 +11784,24 @@
         "parent": "Acts"
     },
     {
+        "name": "Missionary - POV",
+        "description": "having sex in the missionary position from Male's Point Of View",
+        "aliases": [
+            "Missionary (POV)",
+            "Missionary POV",
+            "POV Missionary"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Mixed - POV",
+        "description": "Scene that switches between first and third person point of views",
+        "aliases": [
+            "Mixed POV"
+        ],
+        "parent": "Misc"
+    },
+    {
         "name": "Mixed Race",
         "description": "Describes performers with more than one racial background.",
         "aliases": [
@@ -11487,6 +11934,16 @@
         "description": "Character is biological mother to scene partner",
         "aliases": [
             "Biological Mom"
+        ],
+        "parent": "Relations"
+    },
+    {
+        "name": "Mother In Law",
+        "description": "Character presented as mother-in-law to a scene partner",
+        "aliases": [
+            "Mom In Law",
+            "Mom-In-Law",
+            "Mother-In-Law"
         ],
         "parent": "Relations"
     },
@@ -11832,6 +12289,15 @@
         "parent": "Hair Style"
     },
     {
+        "name": "Muzzle Gag",
+        "description": "A gag, that doesn't enter the performers mouth",
+        "aliases": [
+            "Muzzle",
+            "Muzzled"
+        ],
+        "parent": "Accessories"
+    },
+    {
         "name": "Nail Polish",
         "description": "Varnish applied to the fingernails or toenails to colour them or make them shiny.",
         "aliases": [
@@ -12146,6 +12612,18 @@
             "View - Voyeur POV"
         ],
         "parent": "Misc"
+    },
+    {
+        "name": "No Underwear",
+        "description": "A performer going without their underwear, i.e without their underpants or panties.",
+        "aliases": [
+            "Go Commando",
+            "Going Commando",
+            "No Panties",
+            "No Underpants",
+            "Pantyless"
+        ],
+        "parent": "Clothing"
     },
     {
         "name": "Northern Guillotine",
@@ -12478,6 +12956,16 @@
         "parent": "Clothing"
     },
     {
+        "name": "On\u0113san",
+        "description": "Young woman playing a dominant older sister type, not necessarily a family member.",
+        "aliases": [
+            "Older Sister",
+            "Older Sister (JAV)",
+            "\u304a\u59c9\u3055\u3093"
+        ],
+        "parent": "Roles"
+    },
+    {
         "name": "Onesie",
         "description": "a bodysuit usually with sleaves having a snap closure at the crotch and not covering the legs",
         "aliases": [],
@@ -12511,6 +12999,16 @@
         "aliases": [
             "Oral",
             "\u53e3\u4ea4"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Train (Oral Sex)",
+        "description": "At least three performers have oral sex in a chain.",
+        "aliases": [
+            "Daisy Chain",
+            "Daisychain",
+            "Oral Train"
         ],
         "parent": "Acts"
     },
@@ -13348,6 +13846,12 @@
         "parent": "Acts"
     },
     {
+        "name": "Piss Play",
+        "description": "Pissing games / piss drinking using bowls, glasses, etc",
+        "aliases": [],
+        "parent": "Acts"
+    },
+    {
         "name": "Piss Swapping",
         "description": "Trading piss from one mouth to another.",
         "aliases": [
@@ -13812,6 +14316,16 @@
         "parent": "Accessories"
     },
     {
+        "name": "Vaginal Creampie",
+        "description": "Vaginal penetrative sex to completion without pulling out.",
+        "aliases": [
+            "Creampie Vaginal",
+            "Cum in Pussy",
+            "Pussy Creampie"
+        ],
+        "parent": "Finishers"
+    },
+    {
         "name": "Pussy Denial",
         "description": "Focused on denying access or view to one's pussy",
         "aliases": []
@@ -13820,6 +14334,22 @@
         "name": "Pussy Display",
         "description": "Presenting pussy for observation without necessarily involving close-ups or gaping",
         "aliases": [],
+        "parent": "Acts"
+    },
+    {
+        "name": "Pussy Fingering",
+        "description": "Digitally penetrating another performer's vagina.",
+        "aliases": [
+            "Fingering (Pussy)",
+            "Fingering (Vagina)",
+            "Fingering (Vaginal)",
+            "Fingering - Pussy",
+            "Fingering - Vaginal",
+            "Fingering Pussy",
+            "Fingers In The Pussy",
+            "Pussy-fingering",
+            "Vaginal Fingering"
+        ],
         "parent": "Acts"
     },
     {
@@ -13842,6 +14372,29 @@
         "description": "Vaginally penetrated with any toy or object.",
         "aliases": [
             "Insertions"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Pussy Licking",
+        "description": "Orally pleasuring another performer's vulva.",
+        "aliases": [
+            "BG Cunnilingus",
+            "Cunilingus",
+            "Cunnilingus",
+            "Cunnilungus",
+            "Eating Out",
+            "Eating Pussy",
+            "GG - Licking",
+            "GG Cunniligus",
+            "GG Cunnilingus",
+            "Licking Pussy",
+            "Pink Kiss",
+            "Pussy Eating",
+            "Pussy Lick",
+            "Pussy-eating",
+            "Vaginal Licking",
+            "pussy.licking"
         ],
         "parent": "Acts"
     },
@@ -14067,6 +14620,14 @@
         "parent": "Themes"
     },
     {
+        "name": "Natural Ass",
+        "description": "Unaltered by surgical augmentation.",
+        "aliases": [
+            "Real Ass"
+        ],
+        "parent": "Ass"
+    },
+    {
         "name": "Real Couple",
         "description": "Scene partners who are reportedly in a committed relationship in real life, at the time of production.",
         "aliases": [
@@ -14117,6 +14678,25 @@
             "Spanked Raw"
         ],
         "parent": "Misc"
+    },
+    {
+        "name": "Red Hair",
+        "description": "Performers with reddish/orangeish hair colors.",
+        "aliases": [
+            "Ginger",
+            "Gingers",
+            "Hair - Red",
+            "Hair - Redhead",
+            "Hair Hazel",
+            "Hair Red",
+            "Hazel Hair",
+            "Red Head",
+            "Red Heads",
+            "Redhead",
+            "Redheads",
+            "\u7ea2\u53d1"
+        ],
+        "parent": "Hair Color"
     },
     {
         "name": "Red Hair (Female)",
@@ -14323,6 +14903,27 @@
             "DVP Reverse Cowgirl",
             "Double Vaginal Penetration - Reverse Cowgirl",
             "Double Vaginal Penetration Reverse Cowgirl"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Reverse Cowgirl - POV",
+        "description": "From the perspective of the person below, with the person on top facing away the observer during penetrative sex",
+        "aliases": [
+            "Cowgirl - Reverse (POV)",
+            "Cowgirl - Reverse - POV",
+            "Cowgirl - Reverse POV",
+            "POV RCG",
+            "POV Reverse Cowgirl",
+            "POV Reverse-cowgirl",
+            "RCG (POV)",
+            "RCG - POV",
+            "RCG POV",
+            "Reverse Cowgirl (POV)",
+            "Reverse Cowgirl POV",
+            "Reverse-cowgirl (POV)",
+            "Reverse-cowgirl - POV",
+            "Reverse-cowgirl POV"
         ],
         "parent": "Acts"
     },
@@ -14597,6 +15198,25 @@
             "Roommate"
         ],
         "parent": "Relations"
+    },
+    {
+        "name": "Shibari",
+        "description": "Bondage involving the use of rope to restrict movement, wrap, bind or tie a performer.",
+        "aliases": [
+            "Fesselspiele",
+            "Japanese Bondage",
+            "Kikkou Shibari",
+            "Kinbaku",
+            "Rope",
+            "Rope / Shibari",
+            "Rope Bondage",
+            "Rope Play",
+            "Ropes",
+            "String Bondage",
+            "Western Bondage",
+            "\u4e80\u7532\u7e1b\u308a"
+        ],
+        "parent": "Acts"
     },
     {
         "name": "Rope Harness",
@@ -15140,6 +15760,19 @@
         "parent": "Accessories"
     },
     {
+        "name": "Sex Fight",
+        "description": "Physical competition between performers with the goal of forcing their opponent to achieve orgasm.",
+        "aliases": [
+            "Erotic Wrestling",
+            "Foxy Fight",
+            "Foxy Fighting",
+            "Foxy Fights",
+            "Sexfight",
+            "Tournament"
+        ],
+        "parent": "Themes"
+    },
+    {
         "name": "Sex for Money",
         "description": "Character getting paid for the sexual encounter with their scene partner.",
         "aliases": [
@@ -15430,6 +16063,15 @@
         "description": "Voyeuristic image of the side view of a person's blouse, usually point of view at same height as the cleavage.",
         "aliases": [],
         "parent": "Themes"
+    },
+    {
+        "name": "Sideboob",
+        "description": "The outer curve of a breast when revealed by clothing cut low under the arms",
+        "aliases": [
+            "Side Boob",
+            "Side-Boob"
+        ],
+        "parent": "Clothing"
     },
     {
         "name": "Side-by-Side",
@@ -15835,6 +16477,14 @@
             "smoking during sex"
         ],
         "parent": "Acts"
+    },
+    {
+        "name": "Shaved Arms",
+        "description": "Performers with very little hair on their arms.",
+        "aliases": [
+            "Smooth Arms"
+        ],
+        "parent": "Body Type"
     },
     {
         "name": "Smooth Legs",
@@ -16252,6 +16902,25 @@
         "parent": "Acts"
     },
     {
+        "name": "Spread Pussy",
+        "description": "Spreading labia apart.",
+        "aliases": [
+            "Finger Spreading",
+            "Open Labia",
+            "Open Pussy",
+            "Open Vagina",
+            "Pussy Spread",
+            "Pussy Spreading",
+            "Spread Labia",
+            "Spread Vagina",
+            "Spreading",
+            "Wide Open Labia",
+            "Wide Open Pussy",
+            "Wide Open Vagina"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Spring Break",
         "description": "Takes place on or around Spring Break.",
         "aliases": [
@@ -16336,6 +17005,35 @@
         "parent": "Acts"
     },
     {
+        "name": "Stand and Carry (DAP)",
+        "description": "Anal penetrative sex from two performers simultaneously while being carried by the givers",
+        "aliases": [
+            "DAP in Air",
+            "Double Anal Penetration in Air"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Stand and Carry (DP)",
+        "description": "A female performer having vaginal and anal penetrative sex simultaneously while being carried by the givers",
+        "aliases": [
+            "Stand and Carry DP",
+            "Stand and Carry Double Penetration"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Stand and Blow",
+        "description": "A performer orally pleasuring a penis in a kneeling position, while the other performer is in a standing position",
+        "aliases": [
+            "Atten-hut",
+            "Kneeling Blowjob",
+            "Stand & Blow",
+            "Standing Blowjob"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Standing 69",
         "description": "Carrying another performer upside down, so they can both give and receive oral sex.",
         "aliases": [
@@ -16357,6 +17055,17 @@
             "Standing Doggystyle",
             "\u7ad9\u7acb\u72ac\u5f0f",
             "\u7ad9\u7acb\u72d7\u5f0f"
+        ],
+        "parent": "Acts"
+    },
+    {
+        "name": "Standing (DP)",
+        "description": "A female performer having vaginal and anal penetrative sex simultaneously while standing up",
+        "aliases": [
+            "DP - Standing",
+            "Standing DP",
+            "Standing Double Penetration",
+            "Standing.Double.Penetration"
         ],
         "parent": "Acts"
     },
@@ -16937,6 +17646,19 @@
         "parent": "Acts"
     },
     {
+        "name": "Sunlit",
+        "description": "Scene is lit primarily by natural sunlight.",
+        "aliases": [
+            "Day Light",
+            "Daylight",
+            "Natural Light",
+            "Sun Light",
+            "Sun Lit",
+            "Sunlight"
+        ],
+        "parent": "Moods"
+    },
+    {
         "name": "Superhero",
         "description": "Character presented as a superhero, including original characters, parodies, and cosplay.",
         "aliases": [
@@ -16957,6 +17679,20 @@
             "Villianess"
         ],
         "parent": "Roles"
+    },
+    {
+        "name": "Super Woman",
+        "description": "Penetrative sex from a doggy position while the receiver's legs are lifted into the air.",
+        "aliases": [
+            "Doggystyle - Super Woman",
+            "Super Man",
+            "Super Woman Doggystyle",
+            "Superman",
+            "Superwoman",
+            "Wheel Barrow",
+            "Wheelbarrow"
+        ],
+        "parent": "Acts"
     },
     {
         "name": "Surprise Creampie",
@@ -17285,6 +18021,61 @@
         "parent": "Acts"
     },
     {
+        "name": "Teen (18\u201322)",
+        "description": "Character presented as very young, close to high school or college age. Implied age (of character not performer) 18\u201322.",
+        "aliases": [
+            "18",
+            "18 & 19 Years Old",
+            "18 Years Old",
+            "18+ Teen",
+            "18-24",
+            "Teen",
+            "Teen (18+)",
+            "Teen (18-22)",
+            "Teen (Catch-All)",
+            "Teen (Neutral)",
+            "Teen (Vague)",
+            "Teen / Young",
+            "Teen 18+",
+            "Teen18+",
+            "Teenager",
+            "\u9752\u5c11\u5e74\uff0818-22\uff09"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Teen Boy (18\u201322)",
+        "description": "Male character presented as very young, close to high school or college age. Implied age (of character not performer) 18\u201322.",
+        "aliases": [
+            "Male Teen",
+            "Male Teenager",
+            "Teen Boy",
+            "Teen Guy",
+            "Teen Male",
+            "Teenage Boy",
+            "Teenage Guy",
+            "Teenage Male",
+            "\u5c11\u5e74\u7537\u5b69\uff0818-22\uff09"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Teen Girl (18\u201322)",
+        "description": "Female character presented as very young, close to high school or college age. Implied age (of character not performer) 18\u201322.",
+        "aliases": [
+            "Female Teen",
+            "Female Teenager",
+            "Teen Chick",
+            "Teen Female",
+            "Teen Girl",
+            "Teen18+ Role",
+            "Teenage Chick",
+            "Teenage Female",
+            "Teenage Girl"
+        ],
+        "parent": "Age Group"
+    },
+    {
         "name": "Telephone",
         "description": "The performer is using a phone, smartphone or tablet",
         "aliases": [
@@ -17359,6 +18150,17 @@
         "description": "Laying on stomach with the soles of feet raised and showing behind",
         "aliases": [],
         "parent": "Acts"
+    },
+    {
+        "name": "Rabbit Vibrator",
+        "description": "Two-pronged vibrators, with a larger end for penetration and a smaller end for clitoral stimulation.",
+        "aliases": [
+            "Jack Rabbit",
+            "Rabbit",
+            "Rockin Rabbit",
+            "The Rabbit"
+        ],
+        "parent": "Accessories"
     },
     {
         "name": "Therapist",
@@ -17899,6 +18701,17 @@
         "parent": "Accessories"
     },
     {
+        "name": "Train (Penetration Chain)",
+        "description": "Group sex act where one performer is simultaneously the receiver and giver of penetrative sex.",
+        "aliases": [
+            "Anal Train",
+            "Lucky Pierre",
+            "Sandwich Fuck",
+            "Train Fuck"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Training",
         "description": "Features inexperienced characters that are sexually trained or introduced to BDSM.",
         "aliases": [
@@ -18020,6 +18833,15 @@
             "Transsexual"
         ],
         "parent": "Orientation"
+    },
+    {
+        "name": "Trans - POV",
+        "description": "Presented at least partially from the perspective of a trans performer.",
+        "aliases": [
+            "Trans POV",
+            "View - Trans POV"
+        ],
+        "parent": "Themes"
     },
     {
         "name": "Transsub",
@@ -18776,6 +19598,18 @@
         "parent": "Accessories"
     },
     {
+        "name": "Legs Behind Head Missionary",
+        "description": "Receiving performer's legs or feet are are behind their head",
+        "aliases": [
+            "Feet Behind Head",
+            "Feet Behind Head Missionary",
+            "Feet Crossed Behind Head",
+            "Legs Behind Head",
+            "Viennese Oyster"
+        ],
+        "parent": "Acts"
+    },
+    {
         "name": "Vietnamese",
         "description": "Scene features Vietnamese performer(s)",
         "aliases": [
@@ -19403,6 +20237,63 @@
             "\u745c\u4f3d"
         ],
         "parent": "Acts"
+    },
+    {
+        "name": "Young (22\u201330)",
+        "description": "Character presented as generally young, but no longer around college age. Implied age (of character not performer) 22\u201330.",
+        "aliases": [
+            "25-34",
+            "Young",
+            "Young (23\u201330)",
+            "Young (Catch-all)",
+            "Young (Neutral)",
+            "Young (Vague)",
+            "Young Looking",
+            "Younger",
+            "Younger Looking",
+            "Youthful"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Young Man (22\u201330)",
+        "description": "Male presented as generally young, but no longer around college age. Implied age (of character not performer) 22\u201330.",
+        "aliases": [
+            "Young Guy",
+            "Young Male",
+            "Young Man",
+            "Young Man (23\u201330)",
+            "Younger Guy",
+            "Younger Male",
+            "Younger Man",
+            "Youthful Guy",
+            "Youthful Male",
+            "Youthful Man",
+            "\u7f8e\u5c11\u5e74",
+            "\u9752\u5e74\u7537\u5b50 (22\u201330)"
+        ],
+        "parent": "Age Group"
+    },
+    {
+        "name": "Young Woman (22\u201330)",
+        "description": "Female character presented as generally young, but no longer around college age. Implied age (of character not performer) 22\u201330.",
+        "aliases": [
+            "Chick",
+            "Woman (20-29)",
+            "Young Chick",
+            "Young Female",
+            "Young Girl",
+            "Young Woman",
+            "Young Woman (22-30)",
+            "Young Woman (23-30)",
+            "Young Woman (23\u201330)",
+            "Younger Girl",
+            "Younger Woman",
+            "Youthful Chick",
+            "Youthful Girl",
+            "Youthful Woman"
+        ],
+        "parent": "Age Group"
     },
     {
         "name": "Zentai",
